@@ -1,0 +1,33 @@
+.container {
+    height: 200px;
+    width: 300px;
+    background-color: blueviolet;
+    margin: auto;
+    table-layout: auto;
+    table, th, td {
+        border: 3px solid black;
+        margin: auto;
+        border-collapse: collapse;
+        
+      }
+  }
+  
+  .container2 {
+    height: 200px;
+    width: 300px;
+    background-color: rgb(217, 140, 17);
+    margin: auto;
+    table-layout: auto;
+    table, th, td {
+        border: 3px solid black;
+        margin: auto;
+        border-collapse: collapse;
+        
+    }
+  }
+  body{
+    background-image: url(./istockphoto-1360408960-612x612.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  
